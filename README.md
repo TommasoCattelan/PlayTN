@@ -4,6 +4,6 @@ Questo progetto è nato dalla neccessità di aiutare gli escursionisti a organiz
 
 Lo sviluppo di questo progetto prevede i seguenti passi:
 
- ####  14 --- 28 settembre  
+##  14 --- 28 settembre  
  
 sviluppo dell'idea: capire attentamente la problematica e ideare una soluzione adatta a risolvere il problema.

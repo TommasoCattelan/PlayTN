@@ -1,44 +1,44 @@
-#PlayTN
+# PlayTN
 
 PlayTN è un progetto nato per contrastare lo spopolamento delle zone verdi della città di Trento. La scarsa affluenza nei parchi urbani porta infatti al loro degrado e a un aumento dell’isolamento sociale tra i cittadini.
 
 Il nostro obiettivo è rilanciare i parchi come luoghi di socialità, gioco e benessere attraverso un sistema innovativo di armadietti intelligenti, accessibili in modo semplice e sicuro.
 
-##Come funziona
+## Come funziona
 
     Armadietti smart: collocati nelle principali aree verdi della città.
     Contenuti disponibili: giochi e strumenti pensati per favorire l’attività all’aperto e l’interazione sociale, come palloni, racchette, libri, giochi di carte.
     Accesso veloce: tramite scansione di un QR code sugli armadietti e registrazione all’app dedicata.
     Quota di registrazione: all’iscrizione si paga una sola volta una piccola somma, che funge da garanzia per eventuali danni. Dopo questa registrazione, l’accesso agli armadietti è libero e autonomo.
 
-##Obiettivi del progetto
+## Obiettivi del progetto
 
     Contrastare l’isolamento sociale promuovendo la socialità tra cittadini di età diverse.
     Rivalorizzare i parchi pubblici come spazi sicuri, attivi e inclusivi.
     Incentivare il movimento e il gioco all’aperto, soprattutto tra giovani e famiglie.
     Favorire un modello sostenibile e replicabile, estendibile ad altre città.
 
-##Tecnologie previste
+## Tecnologie previste
 
     Applicazione mobile per registrazione, gestione account e tracciamento utilizzi.
     Sistema elettronico di chiusura intelligente con QR code.
     Database utenti con gestione sicura della quota di deposito.
 
-##Possibili sviluppi futuri
+## Possibili sviluppi futuri
 
 
-##Contributi
+## Contributi
 
     Il progetto è in fase di sviluppo in collaborazione con il comune di Trento
 
-##Collaboratori
+## Collaboratori
 
     Tommaso Cattelan
     Harmeet Singh
     Gurhart Singh Gill
 
 
-##Roadmap e Fasi di Lavoro
+## Roadmap e Fasi di Lavoro
 
 ###  D1 ANALISI  [14 --- 28 settembre]
 
